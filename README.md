@@ -1,9 +1,9 @@
-# 👋 Hey there! I'm Mirza Altamash Baig (a.k.a Sultan)
+# 👋 Hey there! I'm Mirza Altamash Baig !
 
-🚀 A passionate Full Stack Developer | MERN Stack Enthusiast | Aspiring Police Officer  
-🎓 B.Tech + M.Tech in Computer Science & Engineering  
-📚 Currently exploring: Data Science | Advanced DBMS | Mobile & Wireless Communication  
-💼 Safety Officer by profession, coder by passion
+🚀 A passionate Full Stack Developer | MERN Stack Enthusiast   
+🎓 B.Tech in Computer Science & Engineering 
+📚 Currently exploring: Data Science | Artificial intelligence | new technologies
+
 
 ---
 
@@ -20,16 +20,14 @@
 
 ---
 
-## 📈 GitHub Stats
-![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultan-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sultan-username&layout=compact&theme=radical)
+
 
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: [your_email@example.com](mailto:your_email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🌐 Portfolio: [your-website.com](https://your-website.com)
+- 📧 Email: mirzaaltamash203@gmail.com
+- 💼 LinkedIn:
+- 🌐 Portfolio:
 
 > “Code like a scientist, dream like a warrior.” – Sultan
 
